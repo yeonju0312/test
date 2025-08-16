@@ -1,4 +1,4 @@
-[![Korean](https://img.shields.io/badge/README-한국어-blue)](./README.kr.md)  
+[![Korean](https://img.shields.io/badge/README-한국어-blue)](./README.kr.md)
 [![English](https://img.shields.io/badge/README-English-black)](./README.en.md)
 
 <br>
